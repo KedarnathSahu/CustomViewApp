@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CustomViewApp</string>
+    <string name="swap_color">Mood</string>
+</resources>
